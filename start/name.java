@@ -1,3 +1,4 @@
+package start;
 public class name {
     public static void main(String[] args) {
         String firtstName = "praveen";
